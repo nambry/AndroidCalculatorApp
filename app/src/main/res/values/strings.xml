@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidCalculatorApp</string>
+    <string name="add_name">加算</string>
+    <string name="subtract_name">減算</string>
+</resources>
